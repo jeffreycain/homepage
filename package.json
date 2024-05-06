@@ -1,8 +1,8 @@
 {
-  "name": "homepage",
+  "name": "jeffreycain.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jeffreycain.github.io/homepage",
+  "homepage": "https://jeffreycain.github.io/jeffreycain.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
