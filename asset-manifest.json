@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jeffreycain.github.io/static/css/main.eea3bd43.css",
+    "main.js": "/jeffreycain.github.io/static/js/main.2a6be3cb.js",
+    "static/js/453.f92ed6eb.chunk.js": "/jeffreycain.github.io/static/js/453.f92ed6eb.chunk.js",
+    "static/media/headshot.jpeg": "/jeffreycain.github.io/static/media/headshot.cefa95166e1eb9e24bcb.jpeg",
+    "static/media/ksu_photo.jpg": "/jeffreycain.github.io/static/media/ksu_photo.49179810d6e5923325fd.jpg",
+    "index.html": "/jeffreycain.github.io/index.html",
+    "main.eea3bd43.css.map": "/jeffreycain.github.io/static/css/main.eea3bd43.css.map",
+    "main.2a6be3cb.js.map": "/jeffreycain.github.io/static/js/main.2a6be3cb.js.map",
+    "453.f92ed6eb.chunk.js.map": "/jeffreycain.github.io/static/js/453.f92ed6eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea3bd43.css",
+    "static/js/main.2a6be3cb.js"
+  ]
+}
