@@ -28,7 +28,7 @@ function App() {
           <p>jeffjcain@gmail.com</p>
           <p><a href="https://github.com/jeffreycain">Github</a></p>
           <p><a href="https://www.linkedin.com/in/jeffrey-cain/">LinkedIn</a></p>
-          <p><a href='/content/JeffreyCainResume.pdf' download>Resume</a></p>
+          <p><a href="/files/JeffreyCainResume.pdf" target="_blank" download>Resume</a></p>
       </div>
     </div>
   );
